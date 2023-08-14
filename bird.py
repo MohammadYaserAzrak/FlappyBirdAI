@@ -79,4 +79,7 @@ class Bird:
         window.blit(rotated_image, new_rect.topleft)
 
     def get_mask(self):
+        '''
+        Helps with collision detection
+        '''
         return pygame.mask.from_surface(self.img)
