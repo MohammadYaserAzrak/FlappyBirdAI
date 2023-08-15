@@ -6,11 +6,11 @@ import os
 import random
 from bird import Bird
 from pipe import Pipe
+from base import Base
 
 # Constants
 WIN_WIDTH = 500
 WIN_HEIGHT = 800
-BASE_IMG = pygame.transform.scale2x(pygame.image.load(os.path.join("imgs", "base.png")))
 BG_IMG = pygame.transform.scale2x(pygame.image.load(os.path.join("imgs", "bg.png")))
 
 
