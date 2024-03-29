@@ -19,3 +19,5 @@ pip3 install pygame neat-python
 ```
 python main.py
 ```
+## Demo
+![FlappyBirdAI](https://github.com/MohammadYaserAzrak/FlappyBirdAI/assets/110301018/39d65869-4cf2-4ca6-8766-f8f8f4e47d17)
